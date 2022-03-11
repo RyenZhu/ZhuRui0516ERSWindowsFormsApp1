@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EmpRecordsData>
+	<Ecode Id="E001" EmployeeName="Michael Perry">
+	<EmpDeatils DateofJoin="02-02-1999" Gread="A" Salary="1750"/>
+	</Ecode>
+
+	<Ecode Id="E002" EmployeeName="Hannibal">
+		<EmpDeatils DateofJoin="05-30-1998" Gread="A" Salary="2000"/>
+	</Ecode>
+
+	<Ecode Id="E003" EmployeeName="Forest">
+		<EmpDeatils DateofJoin="10-02-1989" Gread="B" Salary="2233"/>
+	</Ecode>
+
+	<Ecode Id="E004" EmployeeName="Jennie">
+		<EmpDeatils DateofJoin="12-02-2000" Gread="C" Salary="2000"/>
+	</Ecode>
+
+	<Ecode Id="E005" EmployeeName="Pacino">
+		<EmpDeatils DateofJoin="08-14-1968" Gread="A" Salary="4022"/>
+	</Ecode>
+	
+</EmpRecordsData>
